@@ -53,8 +53,9 @@ Titans-Research/
 │   ├── experiment2_reasoning.ipynb
 │   └── experiment3_timeseries_ETTh1.ipynb
 │
-└── paper/
-    └── Titans_Learning_to_Memorize_at_Test_Time.pdf
+├── report.pdf
+│
+└── requirements.txt
 ```
 
 All four Jupyter notebooks are included to document the complete experimental work, including the primary experiments and supplementary investigations.
